@@ -1,0 +1,1 @@
+# The-idea-is-to-choose-any-element-from-the-array-known-as-pivot-element.-Then-finds-its-position
